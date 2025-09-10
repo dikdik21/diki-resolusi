@@ -2,4 +2,5 @@ Diki RESOLUSI
   - Konsisten belajar tentang web development
   - Untuk tampilan FE (front end) bisa menggunakan AI dan menyesesuaikan saja
   - Konsisten dan fokus belajar menjadi full stack developer
+  - Belajar PHP dan database / BE (Back End)
   
